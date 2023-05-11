@@ -1,3 +1,6 @@
+## Documentation
+https://playwright.dev/
+
 ## Environment
 * Node 18
 * VS Code
@@ -20,7 +23,7 @@ yarn
 ```console
 yarn repl
 ```
-## run tests
+## Run tests
 ```console
 yarn test
 ```
